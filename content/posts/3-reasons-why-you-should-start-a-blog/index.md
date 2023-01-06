@@ -1,5 +1,5 @@
 ---
-title: "3 reasons you should start a blog when pivoting into tech"
+title: "3 reasons you should start a tech blog"
 date: 2022-07-14
 draft: false
 author: "Shara Belton"

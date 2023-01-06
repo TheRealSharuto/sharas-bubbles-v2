@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This is a demo of the Blowfish theme for Hugo."
+title: "Shara's Bubbles"
+description: "Trying to make my life worth living"
 ---
 
 <!--center style="display:flex;align-items:center;flex-wrap:wrap;justify-content:space-evenly;">

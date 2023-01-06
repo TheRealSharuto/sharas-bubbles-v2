@@ -1,0 +1,9 @@
+{{ $recentProjects := 5 }}
+{{ $recentProjects = .Site.Params.homepage.showRecentItems }}
+
+<section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+    {{ range first $recentProjects (.Paginate (where .Site.RegularPages "Type" "in"
+    .Site.Params.mainSections)).Pages }}
+    {{ partial "project-link/card.html" . }}
+    {{ end }}
+</section>

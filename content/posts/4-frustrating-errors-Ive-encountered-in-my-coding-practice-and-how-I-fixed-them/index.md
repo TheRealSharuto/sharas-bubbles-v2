@@ -1,8 +1,8 @@
 ---
-title: "4 frustrating errors I’ve encountered in my coding practice and how I fixed them"
+title: "4 frustrating errors - fixed!"
 date: 2022-07-20T14:14:24-04:00
 draft: false
-tags: ["Debugging","Git","advice","self-teaching", "markdown"]
+tags: ["Debugging","Git", "markdown"]
 categories: ["Web Development"]
 author: Shara Belton
 keywords: ["Web Developer", "Blogging for web developers", "Shara Belton", "Shara's Bubbles", "Web Design Blog", "blog", "programming", "Code", "Learn how to code"]
