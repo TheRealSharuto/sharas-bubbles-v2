@@ -7,6 +7,7 @@ tags: ["lifestyle","career","advice"]
 categories: ["Productivity"]
 keywords: ["Web Developer", "Blogging for web developers", "Shara Belton", "Shara's Bubbles", "Web Design Blog", "blog", "programming", "Code", "Learn how to code"]
 showHero: false
+showComments: true
 ---
 ![Picture of a desk](/images/3-reasons-why-you-should-start-a-blog/feature-start-blog-1.png)
 

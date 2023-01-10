@@ -13,7 +13,7 @@ showTaxonomies : false
 showWordCount : false
 showSummary : false
 sharingLinks : false
-showComments: false
+showComments: true
 layoutBackgroundHeaderSpace: true
 
 ---

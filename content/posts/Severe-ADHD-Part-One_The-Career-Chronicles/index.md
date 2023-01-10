@@ -8,6 +8,7 @@ categories: ["Productivity"]
 author: Shara Belton
 keywords: ["Focus", "ADHD", "Shara Belton", "Shara's Bubbles", "hyperfocus"]
 showHero: false
+showComments: true
 ---
 
 ![A graphic head with many arrows pointing out](https://ucarecdn.com/14671051-b53c-482e-a6b5-957468d5d1fb/-/preview/-/quality/smart/-/format/auto/)

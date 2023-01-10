@@ -7,6 +7,7 @@ categories: ["Web Development"]
 author: Shara Belton
 keywords: ["Web Developer", "Blogging for web developers", "Shara Belton", "Shara's Bubbles", "Web Design Blog", "blog", "programming", "Code", "Learn how to code"]
 showHero: false
+showComments: true
 ---
 ![Graphic of a frustrated woman](/images/4-frustrating-errors-Ive-encountered-in-my-coding-practice-and-how-I-fixed-them/feature-frustration.png)
 

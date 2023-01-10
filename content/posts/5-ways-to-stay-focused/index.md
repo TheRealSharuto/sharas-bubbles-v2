@@ -8,6 +8,7 @@ categories: ["Productivity"]
 author: Shara Belton
 keywords: ["Focus", "Night Owls", "Shara Belton", "Shara's Bubbles", "Early Birds", "studying", "music", "lofi", "binaural beats"]
 showHero: false
+showComments: true
 ---
 ![Woman writing into a journal](https://ucarecdn.com/d2b58e39-7fbb-46b8-9389-0630a9c85557/-/preview/-/quality/smart/)
 
@@ -104,11 +105,11 @@ There are so many ways to stay focused, so this post will definetly need a part 
 But do not beat yourself up over it! We are all only human. Any step towards your goal is amazing and deserves praise 🎉. What are some ways that you stay focused? Answer in the comments below!
 
 [^1]: https://www.sciencedaily.com/releases/2019/12/191204145752.htm
-[^2]: https://www.researchgate.net/publication/304154367_Enhancing_Memory_Retention_by_Increasing_Alpha_and_Decreasing_Beta_Brainwaves_using_Music#:~:text=When%20the%20binaural%20beat%20beats,along%20with%20working%20memory%20improvement
-[^3]: https://pubmed.ncbi.nlm.nih.gov/30670235/#:~:text=Through%20a%20proposed%20phenomenon%20called,and%20reading%20and%20writing%20speed
+[^2]: [Link to Article: Enhancing Memory Retention by Increasing Alpha and Decreasing Beta Brainwaves using Music](https://www.researchgate.net/publication/304154367_Enhancing_Memory_Retention_by_Increasing_Alpha_and_Decreasing_Beta_Brainwaves_using_Music#:~:text=When%20the%20binaural%20beat%20beats,along%20with%20working%20memory%20improvement)
+[^3]: [Link to Article: White noise as a possible therapeutic option for children with ADHD](https://pubmed.ncbi.nlm.nih.gov/30670235/#:~:text=Through%20a%20proposed%20phenomenon%20called,and%20reading%20and%20writing%20speed)
 [^4]: https://direct.mit.edu/jocn/article-abstract/26/7/1469/28130/White-Noise-Improves-Learning-by-Modulating?redirectedFrom=fulltext
 [^5]:https://www.nature.com/articles/s41598-017-13383-3
 [^6]: https://www.nature.com/articles/ncomms10448
 [^7]: https://www.huffpost.com/entry/night-owl-sleep_b_4276411
 [^8]: https://link.springer.com/article/10.1007/s12144-017-9682-9
-[^9]: https://hbr.org/2019/03/the-case-for-finally-cleaning-your-desk#:~:text=Clutter%20Affects%20Your%20Brain%20and%20Your%20Work&text=They%20also%20found%20that%20when,information%2C%20and%20their%20productivity%20increased
+[^9]: [Link to Article: The Case for Finally Cleaning Your Desk](https://hbr.org/2019/03/the-case-for-finally-cleaning-your-desk#:~:text=Clutter%20Affects%20Your%20Brain%20and%20Your%20Work&text=They%20also%20found%20that%20when,information%2C%20and%20their%20productivity%20increased)
