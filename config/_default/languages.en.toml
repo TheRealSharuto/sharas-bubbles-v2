@@ -8,7 +8,7 @@ rtl = false
 title = "Shara's Bubbles"
 logo = "/img/android-chrome-512x512.png"
 description = "Life, web development, and productivity."
-copyright = "Shara's Bubbles Copyright 2023"
+copyright = "Copyright © 2023 Shara Belton"
 
 dateFormat = "2 January 2006"
 
@@ -16,7 +16,7 @@ dateFormat = "2 January 2006"
   name = "Shara Belton"
   image = "/img/shara-profile/Shara-selfie.png"
   headline = "Making my life worth living"
-  bio = "A web developer who cares a lot about web accessibility. A dancer who loves k-pop. Anime, manga, and webtoon lover. She also draws and sings sometimes, but it's' not that great - it's just for funsies! She shares it anyway :p."
+  bio = "A web developer who cares a lot about web accessibility. A dancer who loves k-pop. Anime, manga, and webtoon lover. She also draws and sings sometimes, but it's not that great - it's just for funsies! She shares it anyway :p."
    links = [
      { email = "mailto:shara.desdev@gmail.com" },
   #   { link = "https://link-to-some-website.com/" },
@@ -58,6 +58,6 @@ dateFormat = "2 January 2006"
   #   { twitch = "https://twitch.tv/username" },
   #   { twitter = "https://twitter.com/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
-     { youtube = "https://youtube.com/@shara3114" },
+   #  { youtube = "https://youtube.com/@shara3114" },
   #   { ko-fi = "https://ko-fi.com/username" },
    ]
