@@ -38,12 +38,12 @@ Hugo has various builtin methods to resize, crop and optimize images.
 As an example - in `layouts/partials/article-link/card.html`, you have the following code:
 
 ```go
-{{ with .Fill "600x600" }}
+{{ with .Resize "600x" }}
 <div class="w-full thumbnail_card nozoom" style="background-image:url({{ .RelPermalink }});"></div>
 {{ end }}
 ```
 
-The default behavior of Hugo here is to use Smartcrop to dynamically set the anchor point (crop placement) on the image and resize it to fill 600x600px.
+The default behavior of Hugo here is to resize the image to 600px keeping the ratio.
 
 It is worth noting here that default image configurations such as [anchor point](https://gohugo.io/content-management/image-processing/#anchor) can also be set in your [site configuration](https://gohugo.io/content-management/image-processing/#processing-options) as well as in the template itself.
 
@@ -54,6 +54,11 @@ See the [Hugo docs on image processing](https://gohugo.io/content-management/ima
 Blowfish ships with a number of colour schemes out of the box. To change the basic colour scheme, you can set the `colorScheme` theme parameter. Refer to the [Getting Started]({{< ref "getting-started#colour-schemes" >}}) section to learn more about the built-in schemes.
 
 In addition to the default schemes, you can also create your own and re-style the entire website to your liking. Schemes are created by by placing a `<scheme-name>.css` file in the `assets/css/schemes/` folder. Once the file is created, simply refer to it by name in the theme configuration.
+
+{{< alert "github">}}
+**Note:** generating these files manually can be hard, I've built a `nodejs` terminal tool to help with that, [Fugu](https://github.com/nunocoracao/fugu). In a nutshell, you pass the main three `hex` values of your color pallette and the program will output a css file that can be imported directly into Blowfish.
+{{< /alert >}}
+
 
 Blowfish defines a three-colour palette that is used throughout the theme. The three colours are defined as `neutral`, `primary` and `secondary` variants, each containing ten shades of colour.
 

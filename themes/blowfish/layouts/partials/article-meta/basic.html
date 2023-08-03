@@ -30,15 +30,15 @@
 {{ $meta.Add "partials" (slice (partial "meta/reading-time.html" .)) }}
 {{ end }}
 
-{{ if (.Params.showViews | default (.Site.Params.article.showViews | default false)) }}
+{{ if and (not .Params.externalURL) (.Params.showViews | default (.Site.Params.article.showViews | default false)) }}
 {{ $meta.Add "partials" (slice (partial "meta/views.html" .)) }}
 {{ end }}
 
-{{ if (.Params.showLikes | default (.Site.Params.article.showLikes | default false)) }}
+{{ if and (not .Params.externalURL) (.Params.showLikes | default (.Site.Params.article.showLikes | default false)) }}
 {{ $meta.Add "partials" (slice (partial "meta/likes.html" .)) }}
 {{ end }}
 
-{{ if and (eq $scope "single") (.Params.showLikes | default (.Site.Params.article.showLikes | default false)) }}
+{{ if and (eq $scope "single") (not .Params.externalURL) (.Params.showLikes | default (.Site.Params.article.showLikes | default false)) }}
 {{ $meta.Add "partials" (slice (partial "meta/likes_button.html" .)) }}
 {{ end }}
 
@@ -65,7 +65,7 @@
   {{ if (eq $taxonomy "authors")}}
   {{ if (gt (len ($context.GetTerms $taxonomy)) 0) }}
   {{ range $i, $a := $context.GetTerms $taxonomy }}
-    {{ if not (eq $i 0) }} ,&nbsp; {{ end }} <div style="cursor: pointer;" onclick="window.open({{ $a.RelPermalink }})">{{ $a.LinkTitle }}</div>
+    {{ if not (eq $i 0) }} ,&nbsp; {{ end }} <div style="cursor: pointer;" onclick="window.open({{ $a.RelPermalink }},'_self')">{{ $a.LinkTitle }}</div>
   {{ end }}
   {{ end }}
   {{ end }}
@@ -80,7 +80,7 @@
   {{ if and (not (eq $taxonomy "authors")) (not (eq $taxonomy "series"))}}
   {{ if (gt (len ($context.GetTerms $taxonomy)) 0) }}
   {{ range $context.GetTerms $taxonomy }}
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open({{ .RelPermalink }});">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open({{ .RelPermalink }},'_self');">
     {{ partial "badge.html" .LinkTitle }}
   </span>
   {{ end }}
