@@ -23,11 +23,11 @@ enableCodeCopy = true
   layout = "fixed" # valid options: basic, fixed
 
 [footer]
- # showMenu = true
+  showMenu = true
   showCopyright = true
   showThemeAttribution = false
-  showAppearanceSwitcher = true
-  showScrollToTop = true
+  footer.showAppearanceSwitcher = true
+  footer.showScrollToTop = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom

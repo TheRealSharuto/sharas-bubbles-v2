@@ -1,6 +1,6 @@
 ---
-title: "Shara's Bubbles"
-description: "Trying to make my life worth living"
+title: "Presenting Shara"
+description: "Life, software development, and productivity."
 ---
 
 <!--center style="display:flex;align-items:center;flex-wrap:wrap;justify-content:space-evenly;">
