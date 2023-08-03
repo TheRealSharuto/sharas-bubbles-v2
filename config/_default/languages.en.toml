@@ -5,9 +5,9 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Shara's Bubbles"
+title = "Presenting Shara"
 logo = "/img/android-chrome-512x512.png"
-description = "Life, web development, and productivity."
+description = "Life, software development, and productivity."
 copyright = "Copyright © 2023 Shara Belton"
 
 dateFormat = "2 January 2006"
@@ -15,10 +15,10 @@ dateFormat = "2 January 2006"
 [author]
   name = "Shara Belton"
   image = "/img/shara-profile/Shara-selfie.png"
-  headline = "Making my life worth living"
-  bio = "A web developer who cares a lot about web accessibility. A dancer who loves k-pop. Anime, manga, and webtoon lover. She also draws and sings sometimes, but it's not that great - it's just for funsies! She shares it anyway :p."
+  headline = "Always Learning. Always Growing."
+  bio = "A software dev and a dancer who loves k-pop, anime, manga, and webtoons. She also hikes, draws, sings on occasion."
    links = [
-     { email = "mailto:shara.desdev@gmail.com" },
+     { email = "mailto:shara.a.belton@gmail.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
