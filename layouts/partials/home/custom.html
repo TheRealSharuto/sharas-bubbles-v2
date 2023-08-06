@@ -15,9 +15,9 @@
   {{ partial "partials/home/page.html" . }}
 </div>
 <section>
-  {{ partial "recent-articles-demo.html" . }}
+  {{ partial "recent-articles/cardview.html" . }}
 </section>
 <section>
-  {{ partial "recent-projects.html" . }}
+  {{ partial "recent-projects/cardview.html" . }}
 </section>
 <script defer type="text/javascript" src="{{ $jsHome.RelPermalink }}" integrity="{{ $jsHome.Data.Integrity }}"></script>
