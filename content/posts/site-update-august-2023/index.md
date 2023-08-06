@@ -21,3 +21,5 @@ Because of this, I have also decided to change the website name from Shara's Bub
 This blog will be about everything around me and how my tech journey progresses and gets affected by the changes I make. This blog does not exist to make money (even though I am very broke...), but serves as an expression of Shara and her talents. 
 
 See you in the next post! Toodles. 
+
+![Picture of a Shara Belton](https://ucarecdn.com/f43daede-5849-4bfb-89a5-809aa35f4567/-/preview/469x216/-/quality/smart/-/format/auto/)
