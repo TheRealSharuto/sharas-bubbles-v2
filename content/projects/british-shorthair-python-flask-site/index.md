@@ -3,7 +3,7 @@ title: "Python Flask Site: British Shorthair Cats"
 date: 2023-08-06
 draft: false
 author: "Shara Belton"
-tags: ["Python", "flask", "html","css","bootstrap 5"]
+tags: ["Python", "flask", "JSON", "html","css","bootstrap 5", "registration code"]
 categories: ["Portfolio"]
 summary: "A site about cats with registration, login, and page restrictions coded in Python, Bootstrap 5, CSS3, and HTML5."
 showComments: true
@@ -13,4 +13,8 @@ I love British Shorthair cats, so I decided to make a mini Python Flask site whe
 
 {{< button href="http://shara.pythonanywhere.com/" target="_blank" >}}
 View Python Flask Site
+{{< /button >}}
+
+{{< button href="https://github.com/TheRealSharuto/british-shorthair/tree/main" target="_blank" >}}
+View Code on Github
 {{< /button >}}
