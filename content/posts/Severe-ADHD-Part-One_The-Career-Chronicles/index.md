@@ -1,5 +1,5 @@
 ---
-title: "Severe ADHD Part One: The Career Chronicles"
+title: "ADHD Part One: Career"
 date: 2023-01-10
 draft: false
 author: Shara Belton
@@ -19,7 +19,7 @@ I’ve been reflecting. A lot has happened within the past two years.  I worked 
 
 There is one thing I experienced with every one of my previous jobs that helped me realize something - the *honeymoon phase*.
 
-## The (Severe) Job Honeymoon Phase
+## The Job Honeymoon Phase
 ![Woman twirling in a rolling office chair happily](https://ucarecdn.com/ce016ade-6e4b-42cc-bdf7-c2fa791d6bba/-/preview/-/quality/smart/-/format/auto/)
 My frequent job honeymoon phase experience made me realize that something was amiss in me compared to my peers. So, what is the job honeymoon phase?
 
@@ -27,11 +27,11 @@ In my experience, the job honeymoon phase is a *phenomenon of hyperfocus and exc
 
 How it goes: I have successfully convinced myself that I have found the greatest starting point for my career to get to where I want to be - and that there is lots of opportunity to grow in the company. I accomplish the most during this time, rarely look at my phone while on the clock, and am hyperaware of everything going on around me.
 
-I am overly ecstatic about all of the duties of the job even if it in no way, shape, or form matches my personality or needs. I ignore all workplace red flags and only focus on the positives. I am imaginative of all the possibilities of me climbing up the corporate ladder and acquiring these leadership positions that I never have even wanted in the first place. However, somehow aiming for that position in that moment just makes sense for the future despite everything else.
+I am overly ecstatic about all of the duties of the job even if it in no way, shape, or form matches my personality or the job description. I ignore all workplace red flags and only focus on the positives. I am imaginative of all the possibilities of me climbing up the corporate ladder and acquiring these leadership positions that I never have even wanted in the first place. However, somehow aiming for that position in that moment just makes sense for the future despite everything else.
 
 This all sounds kind of great, right? But it is short-lived. It was not long before tasks became monotonous, I felt stuck, or I began to not make progress. Distractors would become ever more apparent to the point where I can not ignore them because of boredom. Even without a phone, I would space out and stare at nothing for several minutes at a time. Thus, the newness of my presence fades out. All of my flaws become more apparent.
 
-It is at this point where things stick out more about me - especially if I realize I am not actually interested in what I am doing. I work slower, miss details, miss things that people say to me, and become forgetful (as I usually am on a daily - but it is now **worse**).
+It is at this point where things stick out more about me - especially if I realize I am not actually interested in what I am doing. I work slower, miss details, miss things that people say to me, and become forgetful.
 
 As you would have guessed, all of this would be a BIG issue when it comes to working in healthcare or as an admin, so I quickly tapped out of those fields.  I felt humiliated by my fragile mind and unfit for any job. It did not matter how much I was trying on my own - I felt a slave to some kind of entity that had it’s claws wrapped around some part of my brain.
 
@@ -41,7 +41,7 @@ So, what is happening here?
 
 ![Two children dancing on a graphic title that says "ADHD"](https://ucarecdn.com/b72e762d-a6f5-436d-be39-95c439bc64b9/-/preview/-/quality/smart/-/format/auto/)
 
-ADHD is a common neurodevelopment disorder that begins in childhood. It means having a poor executive function, and can often last into adulthood. In fact, it is now an established fact that women are more likely to be diagnosed very late and misdiagnosed with other mental illnesses such as anxiety and depression (which, often coexist with ADHD but do not explain all the symptoms). The reason for these other diagnoses are because the neurology of it all is related - ADHD *is* associated with abnormally low levels of neurotransmitters transmitting nervous stimuli (such as dopamine and noradrenaline) between the prefrontal cortical area and the basal ganglia.
+ADHD is a common neurodevelopment disorder that begins in childhood. It means having a poor executive function, and can often last into adulthood. In fact, it is now an established fact that women are more likely to be diagnosed very late and misdiagnosed with other mental illnesses such as anxiety and depression (which, often coexist with ADHD). The reason for these other diagnoses are because the neurology of it all is related - ADHD *is* associated with abnormally low levels of neurotransmitters transmitting nervous stimuli (such as dopamine and noradrenaline) between the prefrontal cortical area and the basal ganglia.
 
 And that is where I am going to stop speaking factually and start speaking from experience. 
 
@@ -55,7 +55,7 @@ My predominantly inattentive ADHD is being with a group of people and being unab
 
 Basically, ADHD is the inner turmoil of the brain on sonic the hedgehog speed.
 
-Okay, now I will get into the specifics. Here is specifically how ADHD almost ruined my life (slight overexaggeration). 
+Okay, now I will get into the specifics.. 
 
 ## Severe ADHD Burnout
 
@@ -71,7 +71,7 @@ Then, I feel a pang of guilt so intense and a sense of worthlessness.
 
 “Why can I not be like other people and just get the work done and pay attention? What is wrong with me?” 
 
-I start to feel isolated, as if I am in an echoing empty room looking at the world through a foggy window. I become easily irritated and spend most of my free time under the covers in my bed. Instead of simple tasks and chores taking 10x longer to do (as per usual), they begin to take 50x longer to do. At that point, I just don’t do them. This all results in anxiety, more chronic pain, and depression.
+I start to feel isolated, as if I am in an echoing empty room looking at the world through a foggy window. I become easily irritated and spend most of my free time under the covers in my bed. Instead of simple tasks and chores taking 10x longer to do (as per usual), they begin to take 50x longer to do. At that point, I just don’t do them. This all results in anxiety, chronic pain, and depression.
 
 Why?
 
@@ -119,7 +119,7 @@ Noise cancelling helps me…well…cancel the noise. The neighbors are loud and 
 
 ![A timer counting down on a cellphone](https://ucarecdn.com/24f330f7-4176-4756-ac1d-7fb14021f190/-/preview/-/quality/smart/-/format/auto/)
 
-Just because I am on medication does not mean that I suddenly have ultra instinct productivity powers. I set timers in 15 minute (30-minutes on a good day) intervals just in case I fell off task. The timer is a signal to myself to suddenly become self-aware. What am I doing in that moment? Am I on my phone? Am I falling asleep? Well, I am definitely awake now!
+Just because I am on medication does not mean that I suddenly have ultra instinct productivity powers. I set timers in 30 minute intervals just in case I fell off task. The timer is a signal to myself to suddenly become self-aware. What am I doing in that moment? Am I on my phone? Am I falling asleep? Well, I am definitely awake now!
 
 3. **Frequent small breaks**
 
@@ -143,7 +143,7 @@ I am an absolute master at somehow ignoring reminders. It is like my brain has c
 
 ![A woman writing in a journal on a bright couch](https://ucarecdn.com/f685500b-9805-4207-a8ec-48a70422fc7c/-/preview/-/quality/smart/-/format/auto/)
 
-The worst is starting the day with an extreme amount of things on my mind. The best is spilling everything into a journal and pretending I told someone my life story. I also am able to process my emotions better and analyze things to come to the conclusion that oh…that was actually my fault 😳. 
+The worst is starting the day with an extreme amount of things on my mind. The best is spilling everything into a journal and pretending I told someone my life story. I also am able to process my emotions better and analyze things so that I can solve conflicts both inside and outside of work. 
 
 7. **Rewarding oneself**
 ![A present](https://ucarecdn.com/259639df-721a-4602-a547-dbe8051c668b/-/preview/-/quality/smart/-/format/auto/)
@@ -179,7 +179,7 @@ You can do all of these things, but it does not change the fact that ADHD is an 
 
 I’ve seen some good qualities making rounds on the internet regarding individuals with ADHD, and it is actually quite refreshing to see. ADHD is **not fun**, but, it does not have to be the end of one’s life - nor a purely negative experience.
 
-For my employers out there, please do not worry. Individuals with ADHD can bring lots of colorful ideas and innovations to the workplace. Since we think differently, we bring new perspectives to the workplace and often are not afraid to approach things from a different angle. For example, since I have a disability of my own, I frequently think about other’s with disabilities when it comes to creating websites. My biggest goal is to make all my projects accessible, and aid my job in making their projects accessible for those with disabilities as well. I had discovered that many websites actually lack accessibleness on their websites when it comes to functionality and design - so I took up studying Web Accessibility as a side hobby.
+For my employers out there, please do not worry. Individuals with ADHD can bring lots of colorful ideas and innovations to the workplace. Since we think differently, we bring new perspectives to the workplace and often are not afraid to approach things from a different angle. For example, since I have a disability of my own, I frequently think about other’s with disabilities when it comes to creating websites. My biggest goal is to make all my projects accessible, and aid my job in making their projects accessible for those with disabilities as well. I had discovered that many websites and applications lack accessibleness when it comes to functionality and design - so I took up studying Web Accessibility as part of my internship and have been interested in developing advanced software in the future that will aid those with disabilities.
 
 But that is just one personal example that I am proud of myself for. 
 
