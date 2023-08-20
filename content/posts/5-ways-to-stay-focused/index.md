@@ -20,7 +20,7 @@ Now that I have found a job, I should be able to focus on this new priority.
 
 It is time to enter super focus mode. Here are 5 ways I have stayed focus my first few weeks out of the job search grind.
 
-<h1> 1 | 📱 download a motivating productivity app (example: Forest).</h1>
+<h2> 1 | 📱 download a motivating productivity app (example: Forest).</h2>
 
 ![Forest App demographic](https://ucarecdn.com/2e53fba0-e5bf-49ed-b9fb-a783fee5b2bf/-/preview/-/quality/smart/)
 
@@ -34,7 +34,7 @@ The other option is to do a deep focus, which does not allow you to leave the ap
 
 At the end of your timed study session, you are awarded with coins that can allow you to buy different species of trees/plants. When you get enough coins, the motivation for me is that you can plant a tree in real life with your coins.
 
-<h1> 2 | 🎶 play lyric-less music, alpha waves, or white noise.</h1>
+<h2> 2 | 🎶 play lyric-less music, alpha waves, or white noise.</h2>
 
 ![Woman listening to music while holding a mug](https://ucarecdn.com/da405b48-8761-465d-bc94-332a0c941989/-/preview/-/quality/smart/)
 
@@ -42,13 +42,13 @@ I find that having lyrics in my music distracts me from problem-solving work, or
 
 To counter these issues, I’ve found that instrumental music, alpha waves, and white noise help me concentrate the most. 
 
-## 🎧 instrumentals
+### 🎧 instrumentals
 
 ![Lo-fi drawn on a steamy window](https://ucarecdn.com/27ecdead-e778-4016-b0d6-635b6a24419c/-/preview/-/quality/smart/)
 
 Instrumental music I usually dabble in consists of anime and movie soundtracks, lofi hip hop beats, and classical music. I save this for creative driven tasks because listening to different sounds put creative ideas into my head, enabling me to use my artistic skills on my projects and writing activities.
 
-## 🎧 alpha waves
+### 🎧 alpha waves
 
 ![Purple neurons](https://ucarecdn.com/43ca3bb0-c26c-4def-b874-98ce5ee01b80/-/preview/-/quality/smart/)
 
@@ -56,7 +56,7 @@ Alpha waves have been known to filter out distracting sensory information and ch
 
 Of course, there is not a lot of concrete evidence that support these claims scientifically, but the monotonous frequency actually does help me focus on tasks that are less interesting to me... like Calculus.
 
-## 🎧 white noise
+### 🎧 white noise
 
 ![Electronic white fan on a wooden wall.](https://ucarecdn.com/a4b57baf-1168-44a8-baf5-53b9e45bcf96/-/preview/-/quality/smart/)
 
@@ -64,7 +64,7 @@ White noise is known to help with sleep, but it has also helped individuals with
 
 I like to use white noise before I use Alpha waves. This is usually when I am learning new information or listening to lectures. I usually turn on a fan - but there are also white noise sounds available on Spotify and Youtube.
 
-# 3 | 🌃 do the hardest work when you have the most energy/focus in your day.
+## 3 | 🌃 do the hardest work when you have the most energy/focus in your day.
 
 ![Woman typing on her laptop in the dark](https://ucarecdn.com/4c5a87f4-7b47-4e7c-baa3-b888f4b24bc5/-/preview/-/quality/smart/)
 
@@ -76,7 +76,7 @@ Personally, I find myself being smack in the middle - and for me this is okay. I
 
 I believe that **the best way to wake up is to wake up naturally**. The days I wake up naturally are the days I am the most focused. Figuring out when you naturally wake up and the time of day you focus the best is essential to keep up with a busy schedule and stay on task.
 
-# 4 | 🧽 beautify your surroundings and clean your working environment.
+## 4 | 🧽 beautify your surroundings and clean your working environment.
 
 ![pink hued aesthetic desk](https://ucarecdn.com/885ba326-83bd-4b39-8b64-bd865b6878e3/-/preview/-/quality/smart/)
 
@@ -86,7 +86,7 @@ Studies have found links to procrastination and messy environments. [^8] When my
 
 On top of having a clean area, look into making your area look aesthetically pleasing. I find that having a pretty work area makes me more excited to sit at my desk and complete tasks, even if they are deathly boring.
 
-# 5 | 🖥️ join a discord study group, watch study-with-me’s, or livestream your studying online routinely.
+## 5 | 🖥️ join a discord study group, watch study-with-me’s, or livestream your studying online routinely.
 
 ![Woman livestreaming with backlit keyboard](https://ucarecdn.com/43059326-2238-4e5c-a8af-9253f6dbae6b/-/preview/-/quality/smart/)
 
@@ -96,7 +96,7 @@ However, if you are camera shy, live streaming is not the only option. There are
 
 So, there are a few options for this step - you could make your own study group full of accountability partners, view livestreams that will motivate you to stay on task, or even livestream your own sessions.
 
-# Conclusion
+## Conclusion
 
 ![Three college students studying](https://ucarecdn.com/fd062436-34c5-4024-a96a-5f316c5e0899/-/preview/-/quality/smart/)
 

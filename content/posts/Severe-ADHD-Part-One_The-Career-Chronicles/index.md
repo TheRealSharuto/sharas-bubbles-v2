@@ -1,7 +1,7 @@
 ---
 title: "ADHD Part One: Career"
 date: 2023-01-10
-draft: false
+draft: true
 author: Shara Belton
 tags: ["ADHD","advice","career","focus"]
 categories: ["Productivity"]
@@ -97,7 +97,7 @@ The job market for those with learning disabilities - and any disability in gene
 
 With ADHD, we are more likely to get terminated, jump from job to job, burn out, and turn to disability pension [^4]. 
 
-Can it get any worse? Well, it does.
+Can it get any worse? Well, it does, but wait for the upsides at the end.
 
 Because we are much more likely to lose our jobs, we are much more likely to lose everything else. With ADHD, it is easy to lose the support of those around us and come to the position where we have been terminated with no one to fall back on while we look for our next position. One study showed that the homelessness rate of people with ADHD at the average age of 41 was a whopping 24% [^5]. Of course, more often than not, ADHD may come with its fair share of other mental illnesses that can develop in adulthood, such as schizophrenia and bipolar disorder, increasing the risk for homelessness.
 
