@@ -1,7 +1,7 @@
 ---
 title: "ADHD Part One: Career"
 date: 2023-01-10
-draft: true
+draft: false
 author: Shara Belton
 tags: ["ADHD","advice","career","focus"]
 categories: ["Productivity"]
