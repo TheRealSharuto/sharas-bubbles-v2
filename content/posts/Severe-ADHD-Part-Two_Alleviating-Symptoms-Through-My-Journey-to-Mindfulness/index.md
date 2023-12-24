@@ -1,6 +1,6 @@
 ---
 title: "Severe ADHD Part Two: Alleviating Symptoms Through My Journey to Mindfulness"
-date: 2023-12-24T22:54:08Z
+date: 2023-12-24
 draft: false
 author: Shara Belton
 tags: ["lifestyle","advice", "focus"]
