@@ -16,13 +16,14 @@ mainSections = ["docs"]
 # robots = ""
 
 disableImageOptimization = false
+disableTextInHeader = false
 
 defaultBackgroundImage = "/img/ocean.jpg"
 defaultFeaturedImage = "/img/ocean.jpg"
 
 highlightCurrentMenuArea = true
 smartTOC = true
-smartTOCHideUnfocusedChildren = true
+smartTOCHideUnfocusedChildren = false
 
 [header]
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
@@ -70,7 +71,6 @@ smartTOCHideUnfocusedChildren = true
   showTaxonomies = true 
   showAuthorsBadges = true 
   showWordCount = false
-  showSummary = true
   sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
 
 [list]
@@ -90,7 +90,7 @@ smartTOCHideUnfocusedChildren = true
   constrainItemsWidth = false
 
 [sitemap]
-  excludedKinds = ["taxonomy","term"]
+  excludedKinds = []
 
 [taxonomy]
   showTermCount = true
