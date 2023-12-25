@@ -91,8 +91,6 @@ So what is something you have been doing to improve your mental and/or physical 
 
 I do not make New Year's resolutions anymore, but I do have ongoing short term and long term goals that will carry over into 2024 - this blog is one of them!
 
-***
-
 Here is my Christmas present to you, I am sharing a great documentary on meditation:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HBX92PT3264?si=EKt9NQi9psosa69b&amp;start=2148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
