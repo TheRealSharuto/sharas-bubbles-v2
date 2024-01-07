@@ -11,8 +11,7 @@ showHero: false
 showComments: true
 ---
 
-![Anti-distractive-media graphic](https://ucarecdn.com/
-0a360413-1c18-4142-8fe4-ce98639c72a5/-/preview/-/quality/smart/)
+![Anti-distractive-media graphic](https://ucarecdn.com/0a360413-1c18-4142-8fe4-ce98639c72a5/-/preview/-/quality/smart/)
 
 Every New Years, there is at least a big chunk of people that come up with these amazing goals that should be achieved before the ending of the year. However, most of these goals get forgotten, or are given up on within the first month of the year. Many people have decided not to make New Year's Resolutions anymore. 
 
